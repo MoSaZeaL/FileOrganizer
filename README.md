@@ -1,5 +1,5 @@
 # FileOrganizer
-A simple project in order to organize files by file types
+A simple project in order to organize files by extentions.
 ___________________________________________________________
 Project by:
 MoSaZeaL
